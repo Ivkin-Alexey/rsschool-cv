@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+
+  width: 100%;
+  height: 100vh;
+
+  font-family: "Trebuchet MS", "Arial", sans-serif;
+  color: #656565;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+p {
+  font-size: 20px;
+}
+
+a, a:active, a:visited {
+  color: #738dff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5a5db6;
+}
+
+.cv {
+  margin: 50px auto;
+
+  max-width: 1024px;
+}
+
+.cv-top {
+  margin-bottom: 30px;
+
+  display: flex;
+  justify-content: flex-start;
+
+}
+
+.cv-top-image {
+  margin-right: 30px;
+}
+
+.cv-top-info {
+  padding-left: 20px;
+}
+
+.info-title {
+  margin: 0 0 25px;
+}
+
+.info-city {
+  margin-bottom: 25px;
+}
+
+.contact-list {
+  padding-left: 20px;
+}
+
+.objectives-text {
+  margin-bottom: 25px;
+}
+
+.skills-items {
+  margin-bottom: 20px;
+}
+
+.skill-name {
+  font-weight: bold;
+}
+
+.skills-title {
+  margin-bottom: 25px;
+}
+
+.progressbar {
+  margin-bottom: 5px;
+}
+
+.education-list {
+  padding-left: 23px;
+  margin-bottom: 25px;
+}
+
+.education-htmlacademy {
+  padding-left: 23px;
+}
